@@ -39,9 +39,9 @@ import sys
 from glob import glob
 
 MUNKIIMPORT_OPTIONS = [
-    "--subdirectory", "apps/Adobe/CC/2014",
+    "--subdirectory", "Adobe_CC_2015",
     "--developer", "Adobe",
-    "--category", "Creativity",
+    "--category", "Creative Cloud",
 ]
 
 
